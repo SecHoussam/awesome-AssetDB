@@ -1,6 +1,4 @@
-# The AS Watson bug bounty :
-
-- Wildcard Domanis :
+# The AS Watson bug bounty ( Wildcard Domanis ) : 
 
 - *.watsons.com.hk
 - *.watsons.co.th
