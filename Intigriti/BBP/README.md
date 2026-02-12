@@ -2,19 +2,19 @@
 
 - Wildcard Domanis :
 
-*.watsons.com.hk
-*.watsons.co.th
-*.watsons.com.tw
-*.watsons.com.sg
-*.watsons.com.ph
-*.lookatme.com.ph
-*.watsons.com.my
-*.watsons.co.id
-*.watsons.vn
-*.pns.hk
-*.parknshop.com
-*.fortress.com.hk
-*.watsons.com.tr
-*.drogas.lt
-*.drogas.lv
-*.moneyback.com.h
+- *.watsons.com.hk
+- *.watsons.co.th
+- *.watsons.com.tw
+- *.watsons.com.sg
+- *.watsons.com.ph
+- *.lookatme.com.ph
+- *.watsons.com.my
+- *.watsons.co.id
+- *.watsons.vn
+- *.pns.hk
+- *.parknshop.com
+- *.fortress.com.hk
+- *.watsons.com.tr
+- *.drogas.lt
+- *.drogas.lv
+- *.moneyback.com.h
